@@ -1,18 +1,18 @@
 [
-    {
-        "id": 3,
-        "name": "Nike Cortez Leather",
+ {
+        "id": 6,
+        "name": "Nike Alphafly 3 Premium",
         "price": {
-            "oldPrice": 7195.00,
-            "newPrice": 6195.00
+            "oldPrice": 16095.00,
+            "newPrice": 15095.00
         },
         "discount": 10,
         "img": {
-            "singleImage": "img/products/product3/1.png",
+            "singleImage": "img/products/product6/1.png",
             "thumbs": [
-                "img/products/product3/1.png",
-                "img/products/product3/2.png",
-                "img/products/product3/3.png"
+                "img/products/product6/1.png",
+                "img/products/product6/2.png",
+                "img/products/product6/3.png"
             ]
         }
     },
